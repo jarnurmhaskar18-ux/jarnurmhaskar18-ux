@@ -11,10 +11,8 @@
 🌱 Currently Learning:
 - Java
 - Python
-- C++
+- React 
 - Spring Boot
-- MySQL
-- Web Development
 
 ## Technical Skills
 
