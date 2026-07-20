@@ -23,6 +23,7 @@
 
 ### Database
 - MySQL
+- Oracle
 - MongoDB
 
 ### Web Development
