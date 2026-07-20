@@ -9,7 +9,6 @@
 💻 Aspiring Full Stack Developer
 
 🌱 Currently Learning:
-- Java
 - Python
 - React 
 - Spring Boot
