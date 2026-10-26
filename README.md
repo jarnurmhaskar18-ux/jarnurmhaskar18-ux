@@ -4,7 +4,7 @@
 
 🎓 B.Sc. Information Technology Graduate
 
-📚 MCA Aspirant
+📚 Pursuing MCA
 
 💻 Aspiring Full Stack Developer
 
